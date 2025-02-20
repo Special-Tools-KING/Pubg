@@ -1,3 +1,17 @@
-Mahin/2025-02-21/2025-03-21
-Ali/2025-01-15/2025-02-15
-John/2025-03-01/2025-04-01
+Approval Key: abc123
+Joint Date: 2025-02-21
+Expire Date: 2025-03-21
+Current Date: 2025-02-22
+User with approval key 'abc123' is still valid.
+
+Approval Key: xyz456
+Joint Date: 2025-02-15
+Expire Date: 2025-03-01
+Current Date: 2025-02-22
+User with approval key 'xyz456' has expired and cannot run.
+
+Approval Key: pqr789
+Joint Date: 2025-03-01
+Expire Date: 2025-04-01
+Current Date: 2025-02-22
+User with approval key 'pqr789' is still valid.

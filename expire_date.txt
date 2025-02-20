@@ -2,13 +2,16 @@ Approval Key: abc123
 Joint Date: 2025-02-21
 Expire Date: 2025-03-21
 Current Date: 2025-02-22
+Approval Key abc123's script is still valid.
 
 Approval Key: xyz456
 Joint Date: 2025-02-15
 Expire Date: 2025-03-01
 Current Date: 2025-02-22
+Approval Key xyz456's script is still valid.
 
 Approval Key: pqr789
 Joint Date: 2025-03-01
 Expire Date: 2025-04-01
 Current Date: 2025-02-22
+Approval Key pqr789's script is still valid.
